@@ -8,7 +8,8 @@ This repository currently includes:
 
 - **Attention Mechanism**: An implementation of the Attention mechanism from scratch, which is a key component in many modern neural network architectures, particularly in natural language processing (NLP) tasks.  
 
-### Notebook Link  
-
-- [Attention Mechanism Notebook](TF_1-Attention_from_scratch.ipynb)  
+| Topic                          | Notebook Link                                         |  
+|--------------------------------|------------------------------------------------------|  
+| Attention Mechanism Notebook    | [TF_1-Attention_from_scratch.ipynb](TF_1-Attention_from_scratch.ipynb) |  
+| Simple Perceptron Network      | [TF-Simple-Perceptron_from-Scratch.ipynb](TF-Simple-Perceptron_from-Scratch.ipynb) |  
 
