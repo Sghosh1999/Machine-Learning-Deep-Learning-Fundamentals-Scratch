@@ -11,5 +11,6 @@ This repository currently includes:
 | Topic                          | Notebook Link                                         |  
 |--------------------------------|------------------------------------------------------|  
 | Attention Mechanism Notebook    | [TF_1-Attention_from_scratch.ipynb](TF_1-Attention_from_scratch.ipynb) |  
-| Simple Perceptron Network      | [TF-Simple-Perceptron_from-Scratch.ipynb](TF-Simple-Perceptron_from-Scratch.ipynb) |  
+| Simple Perceptron Network      | [TF-Simple-Perceptron_from-Scratch.ipynb](TF-Simple-Perceptron_from-Scratch.ipynb) | 
+| Manual Backpropagation - Mathematics      | [Backpropagation-Mathematics.ipynb](Backpropagation-Mathematics.ipynb) |  
 
