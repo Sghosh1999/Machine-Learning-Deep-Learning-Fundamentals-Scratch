@@ -17,5 +17,5 @@ This repository currently includes:
 | Simple Perceptron Network      | [TF-Simple-Perceptron_from-Scratch.ipynb](TF-Simple-Perceptron_from-Scratch.ipynb) | 
 | Manual Backpropagation - Mathematics      | [Backpropagation-Mathematics.ipynb](Backpropagation-Mathematics.ipynb) | 
 | Simple 2 Layer CNN - Mnist      | [Simple_CNN_Code_MNIST.ipynb](Simple_CNN_Code_MNIST.ipynb) | 
-| Tweet Sentiment Analysis - LSTM      | [Tweet_Sentiment_LSTM.ipynb](Tweet_Sentiment_LSTM.ipynb) |   IP
+| Tweet Sentiment Analysis - LSTM      | [Tweet_Sentiment_LSTM.ipynb](Tweet_Sentiment_LSTM.ipynb) |  
 
