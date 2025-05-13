@@ -1,0 +1,4 @@
+This is a sample text file.
+It contains some random text.
+This is the third line of the file.
+And this is the fourth line.
